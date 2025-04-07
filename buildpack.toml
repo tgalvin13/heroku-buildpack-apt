@@ -1,6 +1,7 @@
 [buildpack]
 id = "heroku/apt"
 name = "Apt"
+version = "0.1.0"
 
 [publish.Ignore]
 files = [
